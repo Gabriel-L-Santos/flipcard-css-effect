@@ -7,7 +7,7 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-![Showcase do Flip Card - gif](./assets/img-gif-readme/weather-report-showcase.gif)
+![Showcase do Flip Card - gif](./assets/gif-readme/flipcard-showcase.gif)
 
 Este projeto é uma demonstração do efeito "flipcard" feito com HTML e CSS (usando o `hover`, `rotateY`, `preserve-3d` e `perspective` para dar o efeito em 3D da carta virando ao passar o cursor do mouse por cima). Na parte de frente da carta, foi usada a API `Unsplash` para gerar imagens aleatórias com o tema "Cyberpunk", na parte de trás da carta estão os links para os meus perfis no Linkedin e GitHub.
 
