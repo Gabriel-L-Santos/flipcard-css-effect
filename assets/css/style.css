@@ -48,7 +48,7 @@ body {
 }
 
 .back {
-    background: #494646 url("background.jpg") no-repeat fixed;
+    background: #494645 url("background.jpg") no-repeat fixed;
     background-size: cover;
     transform: rotateY(180deg);
     display: flex;
