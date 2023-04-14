@@ -18,8 +18,8 @@ Este projeto é uma demonstração do efeito "flipcard" feito com HTML e CSS (us
 
 ## Recursos Usados
 
-- [Font Awesome](https://fontawesome.com/) - (biblioteca de ícones usada para este projeto)
-- [Unsplash](https://unsplash.com/) - (API usada para exibir imagens aleatórias na frente do cartão)
+- [Font Awesome](https://fontawesome.com/) - (biblioteca de ícones usada para este projeto).
+- [Unsplash](https://unsplash.com/) - (API usada para exibir imagens aleatórias na frente do cartão).
 
 ## Autor do Projeto
 
